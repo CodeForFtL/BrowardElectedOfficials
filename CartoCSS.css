@@ -73,6 +73,9 @@
 #cartodb_query[cityname="MIRAMAR"] {
    polygon-fill: #830302;
 }
+#cartodb_query[cityname="PEMBROKE PARK"] {
+   polygon-fill: #E1002A;
+}
 #cartodb_query {
    polygon-fill: #5CA2D1;
 }
