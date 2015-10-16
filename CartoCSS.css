@@ -76,6 +76,18 @@
 #cartodb_query[cityname="PEMBROKE PARK"] {
    polygon-fill: #E1002A;
 }
+#cartodb_query[cityname="WEST PARK"] {
+   polygon-fill: #690D94;
+}
+#cartodb_query[cityname="HALLANDALE BEACH"] {
+   polygon-fill: #F5E856;
+}
+#cartodb_query[cityname="COOPER CITY"] {
+   polygon-fill: #084D0B;
+}
+#cartodb_query[cityname="UNINCORPORATED"] {
+   polygon-fill: #6A3D9A;
+}
 #cartodb_query {
    polygon-fill: #5CA2D1;
 }
