@@ -70,8 +70,8 @@
 #cartodb_query[cityname="TRIBAL LAND"] {
    polygon-fill: #CAB2D6;
 }
-#cartodb_query[cityname="UNINCORPORATED"] {
-   polygon-fill: #6A3D9A;
+#cartodb_query[cityname="MIRAMAR"] {
+   polygon-fill: #830302;
 }
 #cartodb_query {
    polygon-fill: #5CA2D1;
