@@ -1,6 +1,6 @@
 # Broward Elected Officials Map
 
-Map of elected officials of cities in Broward County, Florida.
+Map of elected officials of cities in Broward County, Florida. Last updated on 10/11/2017 list the current mayors for the online map.
 
 https://codeforftl.cartodb.com/viz/4b423d54-658a-11e5-9994-0ec6f7c8b2b9/public_map
 
