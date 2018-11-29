@@ -12,3 +12,7 @@ View the project result at: http://codeforftl.org/BrowardElectedOfficials
 # Who
 
 Code for Fort Lauderdale
+
+# Status
+
+Next update: January 2019 after the 2018 elections are finished.
